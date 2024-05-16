@@ -1,0 +1,173 @@
+.hoja_vida{
+    margin-top: 0px;
+    padding: 50px;
+    background-color: rgb(214, 199, 206);
+    display: flex;
+    align-items: center;
+}
+.prime{
+    margin-left: 5%;
+}
+.primero{
+    margin: 15px 0px 0px 5px;
+    padding: 30px;
+    border-width: 3px;
+    border-color: black;
+    width: 300px;
+    height: 80vh;
+    float: right;
+    background-color: rgb(214, 199, 206);   
+}
+.primero_segundo{
+    text-align: center;
+    margin: 5px ;
+    padding: 30px;
+    border-width: 3px;
+    border-color: black;
+    width: 200px;
+    height: -5vh;
+    background-color: rgb(214, 199, 206);
+}
+.BD{
+    padding-left: 80px;
+    margin-top: -37px;
+}
+.my{
+    padding-left: 40px;
+    margin-top: -19px;
+}
+.por{
+    padding-left: 140px;
+    margin-top: -19px;
+}
+.primero_tercero{
+    text-align: center;
+    margin: 5px ;
+    padding: 30px;
+    border-width: 3px;
+    border-color: black;
+    width: 200px;
+    height: -5vh;
+    background-color: rgb(214, 199, 206);
+}
+.R{
+    padding-left: 125px;
+    margin-top: -17px;
+}
+.cargo{
+    padding-left: 50px;
+    margin-top: -19px;
+}
+.par{
+    padding-left: 55px;
+    margin-top: -19px;
+}
+.A{
+    padding-left: 40px;
+    margin-top: -19px;
+}
+.Stack{
+    padding-left: 130px;
+    margin-top: -19px;
+}
+.segundo{
+    margin: 15px 0px 0px 5px;
+    padding: 30px;
+    border-width: 3px;
+    border-color: black;
+    width: 500px;
+    height: 80vh;
+    float: inline-end;
+    background-color: rgb(214, 199, 206);
+}
+.segundo_primero{
+    margin: 5px ;
+    padding: 30px;
+    border-width: 3px;
+    border-color: black;
+    width: 400px;
+    height: 1dvh;
+    background-color: rgb(214, 199, 206);
+    text-align: center;
+}
+.n{
+    padding-left: 80px;
+    margin-top: -38px;
+}
+.e{
+    padding-left: 70px;
+    margin-top: -15px;
+}
+.N{
+    padding-left: 35px;
+    margin-top: -37px;
+}
+.E{
+    padding-left: 60px;
+    margin-top: -15px;
+}
+
+.segundo_tercero{
+    text-align: center;
+    margin: 5px ;
+    padding: 30px;
+    border-width: 3px;
+    border-color: black;
+    width: 400px;
+    height: -5vh;
+    background-color: rgb(214, 199, 206);
+}
+.tercero{
+    margin: 15px 0px 0px 5px;
+    padding: 30px;
+    border-width: 3px;
+    border-color: black;
+    width: 450px;
+    height: 80vh;
+    float: left;
+    background-color: rgb(214, 199, 206);
+}
+.tercero_primero{
+    margin: 5px ;
+    padding: 30px;
+    border-width: 3px;
+    border-color: black;
+    width: 350px;
+    height: 1dvh;
+    background-color: rgb(214, 199, 206);
+    text-align: center;
+}
+.tercero_segundo{
+    text-align: center;
+    margin: 5px ;
+    padding: 30px;
+    border-width: 3px;
+    border-color: black;
+    width: 350px;
+    height: -5vh;
+    background-color: rgb(214, 199, 206);
+}
+.bp{
+    padding-left: 120px;
+    margin-top: -18px;
+}
+.C{
+    padding-left: 65px;
+    margin-top: -19px;
+}
+.año{
+    padding-left: 35px;
+    margin-top: -19px;
+}
+.bs{
+    padding-left: 140px;
+    margin-top: -18px;
+}
+.Cs{
+    padding-left: 65px;
+    margin-top: -19px;
+}
+.años{
+    padding-left: 35px;
+    margin-top: -19px;
+}
